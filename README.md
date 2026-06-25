@@ -117,7 +117,7 @@ Model | MAE (Mean ± Std) | Reference| Contact | Date |
 ## 🚀 Getting Started
 
 ### PyG-friendly implementation
-Please refer to [the code in the ```PyG_implementation``` folder]([https://github.com/Graph-ECHO-Benchmark/ECHO/PyG_implementation](https://github.com/Graph-ECHO-Benchmark/ECHO/tree/main/PyG_implementation)) for a minimal example on the PyG ecosystem. 
+Please refer to the code in the [```PyG_implementation``` folder](https://github.com/Graph-ECHO-Benchmark/ECHO/tree/main/PyG_implementation) for a minimal example on the PyG ecosystem. 
 
 
 ### Installation
