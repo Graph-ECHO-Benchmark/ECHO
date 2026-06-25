@@ -116,6 +116,10 @@ Model | MAE (Mean ± Std) | Reference| Contact | Date |
 
 ## 🚀 Getting Started
 
+### PyG-friendly implementation
+Please refer to [the code in the ```PyG_implementation``` folder](https://github.com/Graph-ECHO-Benchmark/ECHO/PyG_implementation) for a minimal example on the PyG ecosystem. 
+
+
 ### Installation
 
 We recommend using [uv](https://github.com/astral-sh/uv) for fast and reliable dependency management.
