@@ -4,9 +4,15 @@ The minimal example provided follows the experimental design of the [original EC
 
 
 ## Usage:
+For a complete list of available arguments and options, run:
 
-```python echo_benchmark_example.py --task sssp```
+```python echo_benchmark_example.py --help```
 
-```python echo_benchmark_example.py --task diam --epochs 20```
+The following commands are provided for illustration purposes only and do not necessarily correspond to the hyperparameters used in the original ECHO experiments.
 
-```python echo_benchmark_example.py --task energy --batch_size 16```
+
+- ```python echo_benchmark_example.py --task sssp```
+
+- ```python echo_benchmark_example.py --task diam --epochs 20```
+
+- ```python echo_benchmark_example.py --task energy --batch_size 16```
